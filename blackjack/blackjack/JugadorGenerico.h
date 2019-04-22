@@ -1,9 +1,9 @@
 // jugadorgenerico.h
-// Declaración de la clase abstracta JugadorGenerico
+// DeclaraciÃ³n de la clase abstracta JugadorGenerico
 
 #ifndef JUGADORGENERICO_H
 #define JUGADORGENERICO_H
-
+#include <iostream>
 #include "mano.h"
 #include <string>
 
